@@ -20,7 +20,7 @@ Download package for MacOS
     - Data in /Library/PostgreSQL/13/data
 
 
-## Using and conecting to Postgress
+## Using and conecting to PostgreSQL
 
 - If you selected to install PGAdming, you can now lauch it and connect to the DB
 
