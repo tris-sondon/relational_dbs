@@ -1,1 +1,7 @@
-# relational_dbs
+# Relational DBs Notes
+
+## Postgre
+
+
+
+
